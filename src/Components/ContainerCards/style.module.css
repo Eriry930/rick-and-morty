@@ -1,0 +1,4 @@
+.containercard{
+    display:flex;
+    flex-wrap: wrap;
+}

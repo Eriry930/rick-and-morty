@@ -1,0 +1,40 @@
+.cambios{ 
+    
+    background: linear-gradient(50deg, rgb(237, 196, 22) 0%, rgb(42, 90, 20));  
+    border:0.5px black solid;
+    width: 15%; 
+    height: auto;
+    margin: 15px;
+    border: 4px solid #000;
+    overflow: hidden;
+    border-radius: 15px;
+    text-align: center;
+      
+    
+    
+}
+
+.cambios h2 {
+    width: 90%;
+    background:linear-gradient(50deg, rgb(151, 211, 40) 0%, rgb(33, 103, 233));
+    color: rgb(44, 32, 218);
+    text-shadow: black;
+    display: flexbox;
+    margin: 5%;
+    font-size: 100%;
+    
+    
+} 
+
+.cambios img{
+    width: 80%;
+    height: auto;
+    border: black 4px solid;
+    border-radius: 20px;
+
+
+}
+
+.cambios p {
+    margin-left: 1px;
+}
